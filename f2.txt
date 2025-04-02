@@ -4,9 +4,4 @@ My life is in God Hands
 =======
 # Hello my life is in God hands
 >>>>>>> 679820173b944b48a04e5fc095d2d5d0fee5c1b4
-<<<<<<< Updated upstream
 this is a new me
-=======
-
-My life is full of blessings and i'm heading there.
->>>>>>> Stashed changes
